@@ -1,0 +1,171 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 19px;
+  background-repeat: x;
+}
+
+.big-logo {
+  display: flex;
+  width: 120px;
+  align-items: center;
+  margin: auto;
+}
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+pre {
+  color: #78909C;
+  font-family: "Gill Sans", sans-serif;
+  text-align: center;
+  font-size: 19px;
+}
+
+.one {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.two {
+  border: 0px solid white;
+  background-color: #14b8a6;
+  height: 50px;
+  border-radius: 35px;
+  width: 220px;
+  color: white;
+  font-size: 19px;
+}
+
+.three {
+  border: 0px solid white;
+  background-color: #4003b1;
+  height: 50px;
+  border-radius: 35px;
+  width: 220px;
+  color: white;
+  font-size: 19px;
+}
+
+.four {
+  text-align: center;
+}
+.five {
+  font-size: 30px;
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.six {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 50px;
+}
+
+.seven {
+  flex-direction: column;
+  text-align: start;
+  font-family: "Gill Sans", sans-serif;
+  padding-right: 60px;
+}
+
+div div pre {
+  font-size: 15px;
+}
+
+div div div pre {
+  display: flex;
+}
+
+article {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+article h3 {
+  font-size: 30px;
+  opacity: 0.7;
+}
+
+div div img {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  gap: 96px;
+  margin-bottom: 96px;
+}
+
+.ten {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Sans-serif;
+  font-size: 17px;
+}
+.eleven {
+margin-bottom: 15px;
+  color: rgb(76, 80, 84);
+}
+.twelve {
+  gap: 80px;
+}
+
+article h2 {
+  font-size: 30px;
+  font-family: "Bai Jamjuree", sans-serif;;
+  color: rgb(76, 80, 84);
+}
+
+article pre {
+  font-size: 18px;
+}
+
+article {
+  padding-bottom: 96px;
+}
+
+footer div img {
+  width: 90px;
+}
+
+footer {
+  background-color: rgba(159, 171, 178, 0.2);
+  /* padding: 32px 24px; */
+  display: flex;
+  justify-content: center;
+  gap: 144px;
+  align-items: center;
+}
+
+.b1 {
+  display: flex;
+  justify-content: center;
+  gap: 144px;
+  color: #374151;
+  font-size: 18px;
+  font-family: "Bai Jamjuree", sans-serif;
+  padding-top: 20px;
+}
+
+.b2 {
+  margin-bottom: 32px;
+  gap: 25px;
+  list-style-type: none;
+}
+
+.b3 {
+  width: 24px;
+}
+.b5 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
